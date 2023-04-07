@@ -24,8 +24,8 @@ The assignment was to create a Personal website with five pages: Index (landing)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Clea-Carty-Personal-Website/Clea-Carty-Personal-Website.git)
-- Live Site URL: [Add live site URL here](https://clea-carty-personal-website.github.io/Clea-Carty-Personal-Website/)
+- [Solution URL](https://github.com/Clea-Carty-Personal-Website/Clea-Carty-Personal-Website.git)
+- [Live Site URL](https://clea-carty-personal-website.github.io/Clea-Carty-Personal-Website/)
 
 ### Built with
 
@@ -54,7 +54,7 @@ I would like to continue deepening my knowledge of HTML, CSS, Javascript as a sh
 ### Useful resources
 
 - [Example resource 1](https://www.flaticon.com/free-icon/github-logo_25231)- This website provided the github logo in the footer.
-- [Example resource 2](https://www.flaticon.com/free-icon/linkedin_174857) - This webiste provided the linkedin logo in the footer.
+- [Example resource 2](https://www.flaticon.com/free-icon/linkedin_174857) - This website provided the linkedin logo in the footer.
 
 ## Author
 
