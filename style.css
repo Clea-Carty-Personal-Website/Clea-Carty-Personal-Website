@@ -1,0 +1,234 @@
+body {
+  margin: 0 auto;
+  font-family: "Montserrat", sans-serif;
+  background-image: linear-gradient(#bface2, #ecf2ff);
+}
+
+header {
+  padding: 5px 16px 8px;
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+h1 {
+  color: #4b5faf;
+  font-weight: 600;
+  font-size: 6.25rem;
+  margin-top: 0;
+  margin-bottom: 38px;
+}
+
+h2 {
+  font-size: 3.25rem;
+  color: #4b5faf;
+  font: bolder;
+}
+
+h3 {
+  font-size: 2.25rem;
+  color: #4b5faf;
+  font: bolder;
+}
+
+main {
+  text-align: center;
+
+  padding-bottom: 1px;
+  min-height: 100vh;
+}
+
+a {
+  margin: 20px 30px;
+  text-decoration: none;
+  font-size: 1rem;
+  color: #655dbb;
+}
+
+p {
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #655dbb;
+}
+
+hr {
+  border: dotted white 6px;
+  border-bottom: none;
+  width: 3%;
+  margin: 150px auto;
+}
+
+.nav-item :hover {
+  color: #766fc0;
+}
+
+.nav-item {
+  padding: 5px;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  padding-top: 8px;
+  padding-bottom: 0;
+  cursor: pointer;
+}
+
+.links a.live {
+  border-bottom: 1px solid #655dbb;
+}
+
+.content-top {
+  width: 60%;
+  padding-top: 0;
+  margin: 100px auto;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.name {
+  font-size: 2rem;
+  font-weight: 600;
+  padding-top: 0;
+}
+
+.firstname {
+  padding-right: 90px;
+}
+
+.quote {
+  color: #655dbb;
+  font-family: "Sacramento", cursive;
+  font-size: 80px;
+  margin-bottom: 10px;
+}
+
+.quote-position {
+  width: 50%;
+  text-align: center;
+  margin: auto;
+}
+
+.intro-paragraph {
+  width: 100%;
+  margin: auto;
+}
+
+.about-doordash-paragraph {
+  width: 100%;
+  margin: auto;
+  text-align: left;
+}
+
+.about-workout-paragraph {
+  width: 100%;
+  margin: auto;
+  text-align: left;
+}
+
+.about-cooking-paragraph {
+  width: 100%;
+  margin: auto;
+  text-align: left;
+}
+
+.about-doordash-pic {
+  width: 30%;
+  height: 30%;
+  float: left;
+  margin-right: 20px;
+  margin-top: 6px;
+  border: white;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 50%;
+}
+
+.about-workout-pic {
+  width: 30%;
+  height: 30%;
+  float: right;
+  margin-top: 10px;
+  margin-right: 19px;
+  margin-left: 5px;
+  border: white;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 50%;
+}
+
+.about-bread-pic {
+  width: 30%;
+  height: 30%;
+  float: left;
+  margin-right: 20px;
+  border: white;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 50%;
+}
+
+.about-content {
+  width: 70%;
+  padding-top: 0;
+  margin: 100px auto;
+  text-align: center;
+  line-height: 2;
+}
+
+.portfolio-pic {
+  width: 70%;
+  border-color: white;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 50px;
+}
+
+.portfolio-spacing {
+  margin-bottom: 25px;
+}
+
+portfolio-paragraph {
+  margin-top: 35px;
+  padding-top: 5px;
+}
+
+.about-content-end {
+  width: 70%;
+  padding-top: 0;
+  margin-top: 100px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 60px;
+  text-align: center;
+  line-height: 2;
+}
+
+.footer {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 2px;
+}
+
+.github {
+  width: 60px;
+  height: 60px;
+  margin-bottom: 22px;
+  padding-left: 60px;
+}
+
+.linkedin {
+  width: 100px;
+  height: 100px;
+}
+
+.rights {
+  text-decoration: underline;
+}
+
+.footer-text {
+  color: #655dbb;
+  font-size: 1 rem;
+  margin-top: 0;
+}
