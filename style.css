@@ -232,3 +232,46 @@ portfolio-paragraph {
   font-size: 1 rem;
   margin-top: 0;
 }
+
+.form-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+#form {
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #655dbb;
+}
+
+#submit {
+  background: #ecf2ff;
+  background-image: -webkit-linear-gradient(top, #ecf2ff, #cddcfc);
+  background-image: -moz-linear-gradient(top, #ecf2ff, #cddcfc);
+  background-image: -ms-linear-gradient(top, #ecf2ff, #cddcfc);
+  background-image: -o-linear-gradient(top, #ecf2ff, #cddcfc);
+  background-image: linear-gradient(to bottom, #ecf2ff, #cddcfc);
+  -webkit-border-radius: 25;
+  -moz-border-radius: 25;
+  border-radius: 25px;
+  border-width: 1px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.3rem;
+  font-weight: 700;
+  color: #655dbb;
+  padding: 6px 16px 6px 16px;
+  border: solid #ffffff 2px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+#submit:hover {
+  background: #b3bce0;
+  background-image: -webkit-linear-gradient(top, #b3bce0, #4b5faf);
+  background-image: -moz-linear-gradient(top, #b3bce0, #4b5faf);
+  background-image: -ms-linear-gradient(top, #b3bce0, #4b5faf);
+  background-image: -o-linear-gradient(top, #b3bce0, #4b5faf);
+  background-image: linear-gradient(to bottom, #b3bce0, #4b5faf);
+  color: white;
+}
