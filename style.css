@@ -58,6 +58,22 @@ hr {
   margin: 150px auto;
 }
 
+input {
+  width: 200px;
+  height: 25px;
+  border-width: 3px;
+  border-color: #ffffff;
+  background-color: #ecf2ff;
+  border-radius: 12px;
+}
+
+textarea {
+  border-color: #ffffff;
+  background-color: #ecf2ff;
+  border-width: 3px;
+  border-radius: 14px;
+}
+
 .nav-item :hover {
   color: #766fc0;
 }
@@ -189,7 +205,7 @@ hr {
   margin-bottom: 25px;
 }
 
-portfolio-paragraph {
+.portfolio-paragraph {
   margin-top: 35px;
   padding-top: 5px;
 }
@@ -238,6 +254,19 @@ portfolio-paragraph {
   justify-content: center;
   margin-top: 100px;
 }
+
+.label-container {
+  margin-bottom: 15px;
+}
+
+.phone-container {
+  margin-bottom: 40px;
+}
+
+.submit-container {
+  margin-top: 35px;
+}
+
 #form {
   font-size: 1.3rem;
   font-weight: 700;

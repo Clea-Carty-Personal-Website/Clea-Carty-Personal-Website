@@ -20,7 +20,9 @@
         <span class="nav-item"><a href="index.html">Home</a></span>
         <span class="nav-item"><a href="about.html">About</a></span>
         <span class="nav-item"><a href="portfolio.html">Portfolio</a></span>
-        <span class="nav-item"><a href="contact.html">Contact</a></span>
+        <span class="nav-item"
+          ><a class="live" href="contact.html">Contact</a></span
+        >
       </nav>
     </header>
 
@@ -31,10 +33,25 @@
 
       <div class="form-container">
         <form id="form">
-          <label for="">Name: <input type="text" /></label>
-          <label for="">Email: <input type="text" /> </label>
-          <label for="">Phone: <input type="text" /> </label>
-          <button type="submit" id="submit">Submit</button>
+          <div class="label-container">
+            <label for="Name">Name: <input type="text" /></label>
+          </div>
+          <div class="label-container">
+            <label for="Email">Email: <input type="text" /> </label>
+          </div>
+          <div class="phone-container">
+            <label for="Phone">Phone: <input type="text" /> </label>
+          </div>
+          <p>Message:</p>
+
+          <div class="comments-container">
+            <textarea name="comments" id="" cols="45" rows="10">
+ Share your thoughts... </textarea
+            >
+          </div>
+          <div class="submit-container">
+            <button type="submit" id="submit">Submit</button>
+          </div>
         </form>
       </div>
       <hr />
