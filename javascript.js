@@ -1,3 +1,6 @@
 console.log(
-   "Hello World" 
+   "Hello World!" 
 );
+alert(
+    "Hello World!"
+)
